@@ -1,4 +1,3 @@
-Aqui está um modelo de **README.md** para deixar o seu perfil do GitHub super atrativo, profissional e funcional. Ele inclui diversas seções e funcionalidades que destacam suas habilidades, projetos e interesses.
 
 ---
 
