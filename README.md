@@ -28,13 +28,9 @@
 
 ## 🌟 Principais Projetos | Top Projects  
 
-### 🚀 **[QR Code Generator](https://github.com/seu-usuario/qr-code-generator)**  
+### 🚀 **[QR Code Generator](https://github.com/VitzLok/qrcode_generator)**  
 - Gera QR Codes com validação de sites acessíveis.  
 - **Tecnologias:** Python, Requests, qrcode, Validators.  
-
-### 🤖 **[Discord Bot](https://github.com/seu-usuario/discord-bot)**  
-- Um bot personalizado para interagir em servidores Discord.  
-- **Tecnologias:** Python, Discord API, JSON.  
 
 ### 🌐 **[Website Portfólio](https://github.com/seu-usuario/portfolio-website)**  
 - Meu portfólio pessoal com detalhes sobre minhas habilidades e projetos.  
