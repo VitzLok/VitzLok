@@ -49,10 +49,8 @@
 
 ## 🌍 Conecte-se Comigo | Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-usuario/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/seu-usuario/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/seu-usuario)  
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/seu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vitor-souza-909461326/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/VitzLok/)    
 
 ---
 
