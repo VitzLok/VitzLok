@@ -28,7 +28,7 @@
 
 ## 🌟 Principais Projetos | Top Projects  
 
-### 🚀 **[QR Code Generator](https://github.com/VitzLok/qrcode_generator)**  
+### 🚀 **[QR Code Generator](https://github.com/VitzLok/QRcode-generator)**  
 - Gera QR Codes com validação de sites acessíveis.  
 - **Tecnologias:** Python, Requests, qrcode, Validators.  
 
@@ -57,14 +57,14 @@
 ## 🌱 Atualmente Estou Aprendendo | Currently Learning  
 
 - 📚 **Desenvolvimento Backend:** Flask, Node.js  
-- 🌟 **Inteligência Artificial:** Machine Learning com Python  
+- 🌟 **Inteligência Artificial:** Machine Learning com Python, Redes Neurais e Visão Computacional. 
 - 🌐 **Desenvolvimento Full-Stack:** React, Express.js  
 
 ---
 
 ## 🏆 Conquistas no GitHub | GitHub Achievements  
 
-- ⭐ **Repos mais visitados:** [EventBrite](https://github.com/VitzLok/EventBrite), [QR Code Generator](https://github.com/seu-usuario/qr-code-generator)  
+- ⭐ **Repos mais visitados:** [EventBrite](https://github.com/VitzLok/EventBrite), [QR Code Generator](https://github.com/VitzLok/QRcode-generator)  
 
 ---
 
