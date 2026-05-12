@@ -38,15 +38,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub | GitHub Stats  
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
-</div>  
-
----
-
 ## 🌍 Conecte-se Comigo | Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vitor-souza-909461326/)  
