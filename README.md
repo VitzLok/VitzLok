@@ -26,15 +26,11 @@
 
 ---
 
-## 🌟 Principais Projetos | Top Projects  
+## 🌟 Principal Projeto | Top Project  
 
 ### 🚀 **[QR Code Generator](https://github.com/VitzLok/QRcode-generator)**  
 - Gera QR Codes com validação de sites acessíveis.  
 - **Tecnologias:** Python, Requests, qrcode, Validators.  
-
-### 🌐 **[Website Portfólio](https://github.com/seu-usuario/portfolio-website)**  
-- Meu portfólio pessoal com detalhes sobre minhas habilidades e projetos.  
-- **Tecnologias:** HTML, CSS, JavaScript.  
 
 ---
 
